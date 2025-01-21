@@ -1,7 +1,7 @@
-## Overview
+# Overview
 This repository contains the solutions to **FIT2014 Assignment 2**, part of the second semester 2024 curriculum at Monash University. The assignment covers concepts such as **Regular Languages**, **Context-Free Languages**, **Lexical Analysis**, **Parsing**, **Turing Machines**, and **Quantum Computation**.
 
-## Assignment Breakdown
+# Assignment Breakdown
 
 ### Key Tasks:
 1. **Lexical Analysis**:
